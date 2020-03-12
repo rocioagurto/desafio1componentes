@@ -50,13 +50,8 @@
     }
 </script>
 
-<style>
-*{
-    padding: 0;
-    margin: 0;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+<style scoped>
 
-}
 
 #main {
     background-image: url(https://rickandmortypod.com/wp-content/uploads/2018/11/cropped-RM_page-header_background1-3.png);
